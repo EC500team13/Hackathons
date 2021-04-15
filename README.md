@@ -28,6 +28,5 @@ After the program login successfully, the user will get into the chat room windo
 
 ![上方显示的是nickname 右边的滚动条如果消息很多可以向下滚](https://user-images.githubusercontent.com/70667153/114881179-587d6400-9e35-11eb-9bba-941eb0090253.JPG)
 ![自己说的话是me别人说的是昵称](https://user-images.githubusercontent.com/70667153/114881200-5ca98180-9e35-11eb-80d5-ff618ae89593.JPG)
-![滚动条](https://user-images.githubusercontent.com/70667153/114881216-5fa47200-9e35-11eb-9511-d7dbfd7f40b1.JPG)
 
 Then, the user can enter the message in the input box and send it to other online users. When multiple people getting online, the message will be sent to all online users at the sametime.
